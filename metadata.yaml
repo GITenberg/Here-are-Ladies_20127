@@ -1,0 +1,35 @@
+_repo: Here-are-Ladies_20127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, James
+    alias: Esse, James
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '670'
+    url: http://www.gutenberg.org/2009/agents/670
+    wikipedia: http://en.wikipedia.org/wiki/James_Stephens
+description: ''
+gutenberg_issued: '2006-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Poetry'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+tableOfContents: Women -- Three heavy husbands -- A glass of beer -- One and one --
+  Three women who wept -- The triangle -- The daisies -- Three angry people -- The
+  threepenny piece -- Brigid -- Three young wives -- The horses -- Mistress Quiet
+  Eyes -- Three lovers who lost -- The blind man -- Sweet-apple -- Three happy places
+  -- The moon -- There is a tavern in the town.
+title: Here are Ladies
+url: http://www.gutenberg.org/ebooks/20127
